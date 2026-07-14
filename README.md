@@ -90,16 +90,14 @@ Interactive Excel Dashboard built using Pivot Tables, Pivot Charts, KPI Cards, a
 ![Blinkit Dashboard](images/Blikit_Dashbord.png)
 
 ---
-
 ## 📂 Project Structure
 
 ```text
 📁 Excel-Blinkit-Sales-Dashboard
 │── 📄 README.md
-│── 📊 Blinkit Sales Dashboard.xlsx
-│── 📁 Dataset
+│── 📊 BlinkIT Dashboard usig Excel.xlsx
 │── 📁 images
-│     └── Blinkit_Dashboard.png
+│     └── 📷 Blikit_Dashbord.png
 ```
 
 ---
