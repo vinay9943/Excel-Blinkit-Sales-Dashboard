@@ -85,8 +85,6 @@ This dashboard enables users to monitor key performance indicators (KPIs), ident
 
 ## 📷 Dashboard Preview
 
-> Click the image to view in full size.
-
 Interactive Excel Dashboard built using Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
 
 ![Blinkit Dashboard](images/Blikit_Dashbord.png)
