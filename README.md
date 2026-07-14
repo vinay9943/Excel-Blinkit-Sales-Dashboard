@@ -2,8 +2,6 @@
 
 > **Transforming raw sales data into actionable business insights using Microsoft Excel.**
 
-![Blinkit Dashboard](images/Blikit_Dashbord.png)
----
 
 ## 📌 Project Overview
 
@@ -89,7 +87,7 @@ This dashboard enables users to monitor key performance indicators (KPIs), ident
 
 > Click the image to view in full size.
 
-[![Dashboard](images/Blinkit_Dashboard.png)](images/Blinkit_Dashboard.png)
+![Blinkit Dashboard](images/Blikit_Dashbord.png)
 
 ---
 
