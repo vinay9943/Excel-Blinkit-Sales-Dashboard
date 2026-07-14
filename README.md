@@ -2,8 +2,7 @@
 
 > **Transforming raw sales data into actionable business insights using Microsoft Excel.**
 
-![Blinkit Sales Dashboard](images/Blinkit_Dashboard.png)
-
+![Blinkit Dashboard](images/Blikit_Dashbord.png)
 ---
 
 ## 📌 Project Overview
