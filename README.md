@@ -64,4 +64,4 @@ This project is an interactive **Blinkit Sales Dashboard** developed in **Micros
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](images/blinkit_dashboard.png)
+![Blinkit Sales Dashboard](images/Blikit_Dashbord.png)
